@@ -51,7 +51,4 @@ namespace SimpleMarketApp
             Console.WriteLine(o.GetValue("lowest_price"));
         }
     }
-
-    
-
 }
