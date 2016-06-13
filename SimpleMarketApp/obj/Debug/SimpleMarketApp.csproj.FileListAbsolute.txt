@@ -1,0 +1,8 @@
+c:\users\ccoop\documents\visual studio 2015\Projects\SimpleMarketApp\SimpleMarketApp\bin\Debug\SimpleMarketApp.exe.config
+c:\users\ccoop\documents\visual studio 2015\Projects\SimpleMarketApp\SimpleMarketApp\bin\Debug\SimpleMarketApp.exe
+c:\users\ccoop\documents\visual studio 2015\Projects\SimpleMarketApp\SimpleMarketApp\bin\Debug\SimpleMarketApp.pdb
+c:\users\ccoop\documents\visual studio 2015\Projects\SimpleMarketApp\SimpleMarketApp\obj\Debug\SimpleMarketApp.csprojResolveAssemblyReference.cache
+c:\users\ccoop\documents\visual studio 2015\Projects\SimpleMarketApp\SimpleMarketApp\obj\Debug\SimpleMarketApp.exe
+c:\users\ccoop\documents\visual studio 2015\Projects\SimpleMarketApp\SimpleMarketApp\obj\Debug\SimpleMarketApp.pdb
+c:\users\ccoop\documents\visual studio 2015\Projects\SimpleMarketApp\SimpleMarketApp\bin\Debug\Newtonsoft.Json.dll
+c:\users\ccoop\documents\visual studio 2015\Projects\SimpleMarketApp\SimpleMarketApp\bin\Debug\Newtonsoft.Json.xml
